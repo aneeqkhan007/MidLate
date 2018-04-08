@@ -1,16 +1,35 @@
 Please answer the below core-java Questions:
 
 What is programing language?
-A.
+Ans.A programming language is a formal language that specifies a set of instructions that can be used to produce various kinds of output.
+
 What jdk contains or composed of and define each components?
+Ans.JDK java development kit. components
+
 What is IDE?
+Ans.IDE  integrated develop environment *must have jdk to use java
+
 What are the IDEs available in the market to support java?
+Ans.IntelliJ, Eclipse
+
 Explain the entire java life cycle.
+Ans.1.editor 2. source code 3. java compiler 4. byte codes 5. jvm 6. operating system
+
 what is class?
+Ans.Blueprint of an object
+
 What is object?
+Ans.an instance of a class
+
 What is the entry point of an application?
+Ans.Main method is the entry point of a Java application
+
 Why main is static?
+Ans.The main method must be declared public, static and void in Java otherwise, JVM will not able to run Java program.
+Keyword static allows main to be called without creating an object of the class in which the main method is defined.
+
 Which class is the superclass of all classes?
+Ans.
 What is difference between path and classpath variables?
 What is the difference between an Interface and Abstract class?
 Can you make an Object from an Interface and Abstract class ? if not how do you use it ?
@@ -24,11 +43,23 @@ Explain exceptions in java and how to handle it.
 What is static keyword in java? How it has been used in variables and methods ?
 What is final and how it has been used variables and methods?
 What is final, finally and finalize?
+Ans. Final is used to apply restrictions on class, method and variable. Final class can't be inherited, final method can't be overridden and final variable value can't be changed.
+Finally is used to place important code, it will be executed whether exception is handled or not.
+Finalize is used to perform clean up processing just before object is garbage collected.
+
 What is a constructor ?
+Ans. A constructor is a special method of a class or structure in object-oriented programming that initializes an object of that type.
+A constructor is an instance method that usually has the same name as the class, and can be used to set the values of
+the members of an object, either to default or to user-defined values.
+
 Can we have multiple constructors in a class?
 If we don't have a constructor declared, what is called during the object creation?
 What is "this" keyword in java ?
+Ans. Keyword THIS is a reference variable in Java that refers to the current object. ... It can be used to refer
+instance variable of current class. It can be used to invoke or initiate current class constructor.
+It can be passed as an argument in the method call.
 What is "super" keyword in java? How many possible way can you use?
+
 What is JVM stand for ?
 Is JVM platform independent?
 What version of java are you using?
