@@ -7,7 +7,7 @@ What jdk contains or composed of and define each components?
 Ans.JDK java development kit. components
 
 What is IDE?
-Ans.IDE  integraded develop environment *must have jdk to use java
+Ans.IDE  integrated develop environment *must have jdk to use java
 
 What are the IDEs available in the market to support java?
 Ans.IntelliJ, Eclipse
@@ -51,6 +51,7 @@ What is a constructor ?
 Ans. A constructor is a special method of a class or structure in object-oriented programming that initializes an object of that type.
 A constructor is an instance method that usually has the same name as the class, and can be used to set the values of
 the members of an object, either to default or to user-defined values.
+
 Can we have multiple constructors in a class?
 If we don't have a constructor declared, what is called during the object creation?
 What is "this" keyword in java ?

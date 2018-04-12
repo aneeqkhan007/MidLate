@@ -9,9 +9,9 @@ public class UseQueue {
 	public static void main(String[] args) {
 		Queue<Integer> Que = new LinkedList<>();
 
-		Que.add(100);
-		Que.add(200);
-		Que.add(300);
+		Que.add(650);
+		Que.add(700);
+		Que.add(850);
 
 		System.out.println(Que);
 

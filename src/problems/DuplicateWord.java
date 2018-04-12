@@ -15,7 +15,7 @@ public class DuplicateWord {
          * Also Find the average length of the words.
          */
 
-        String st = "Java is a programming Language. Java is also an Island of Indonesia. Java is widely used language";
+        String st = "Give papa a cup of proper coffe in a copper coffe cup";
         String [] split_str = st.split(" "); // splitting string in word.
         Map<String,Integer> myMap = new HashMap<String, Integer>();
         for (String str : split_str ){
