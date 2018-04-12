@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9771989b-51b3-4e7c-b47c-ddb973a42c7b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/UseQueue.java" afterPath="$PROJECT_DIR$/src/datastructure/UseQueue.java" />
-      <change beforePath="$PROJECT_DIR$/src/math/LowestNumber.java" afterPath="$PROJECT_DIR$/src/math/LowestNumber.java" />
-      <change beforePath="$PROJECT_DIR$/src/math/Pattern.java" afterPath="$PROJECT_DIR$/src/math/Pattern.java" />
-      <change beforePath="$PROJECT_DIR$/src/problems/Anagram.java" afterPath="$PROJECT_DIR$/src/problems/Anagram.java" />
-      <change beforePath="$PROJECT_DIR$/src/problems/DuplicateWord.java" afterPath="$PROJECT_DIR$/src/problems/DuplicateWord.java" />
-      <change beforePath="$PROJECT_DIR$/src/problems/Palindrome.java" afterPath="$PROJECT_DIR$/src/problems/Palindrome.java" />
-      <change beforePath="$PROJECT_DIR$/src/problems/Permutation.java" afterPath="$PROJECT_DIR$/src/problems/Permutation.java" />
-    </list>
+    <list default="true" id="9771989b-51b3-4e7c-b47c-ddb973a42c7b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
